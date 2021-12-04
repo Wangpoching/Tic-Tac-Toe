@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,4CAA+C,CAC/C,WACF,CAEA,MACE,iBACF,CAEA,8BACE,eACF","file":"main.48e18915.chunk.css","sourcesContent":["body {\n  font: 14px \"Century Gothic\", Futura, sans-serif;\n  margin: 20px;\n}\n\nol, ul {\n  padding-left: 30px;\n}\n\n.kbd-navigation .square:focus {\n  background: #ddd;\n}\n"]}
